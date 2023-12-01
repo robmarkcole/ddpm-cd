@@ -140,3 +140,4 @@ dmypy.json
 *.lmdb
 ./experiments
 ./dataset
+.lightning_studio/*
